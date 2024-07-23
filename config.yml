@@ -54,20 +54,65 @@ params:
           title: Mahrokh Ghoddousi Boroujeni
           subtitle: "I am a PhD student at EPFL in Lausanne, Switzerland. My research focuses mostly on Machine Learning and Auotomation and Control Theory.
           <br><br>
-          **📚Research Interests:**<br>
-          &ensp;- Automation and Control<br>
-          &ensp;- Generalization Theory<br>
-          &ensp;- Probabilistic Models<br>
-          &ensp;- Meta and Transfer Learning<br>
-          &ensp;• Machine Learning<br>
+          **📚Research interests:**<br><br>
+          <table>
+          <tr>
+          <th> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+          *Machine Learning*
+          &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;</th>
+          <th>
+          &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+          &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+          *Automation and Control* </th>
+          </tr>
+          <tr>
+          <td>
+          &ensp;• Generalization Theory<br>
+          &ensp;• Probabilistic Models<br>
+          &ensp;• Meta and Transfer Learning<br>
+          &ensp;• Differential Privacy<br>
+
+          </td>
+          <td>
+          &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+          &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+          &ensp;• Stability<br>
+          &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+          &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+          &ensp;• Data-driven control<br>
+          &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+          &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+          &ensp;• Policy Optimization<br>
+
+          </td>
+          </tr>
+          </table>
+
+
           <br><br>
-          **🎓Education:**<br>
-          &ensp;École Polytechnique Fédérale de Lausanne (EPFL), Switzerland<br>
-          PhD student in Robotics and Intelligent Systems
-          November 2020 - Present
-          • Supervisor: Prof. Giancarlo Ferrari Trecate, DECODE, EPFL
-          • Co-supervisor: Prof. Andreas Krause, LAS, ETHZ
-          • EDRS PhD program
+          **🎓Education:**<br><br>
+          &ensp;• École Polytechnique Fédérale de Lausanne (EPFL), Switzerland<br>
+          &ensp;&ensp;&ensp;  *November 2020 - Present<br>*
+          &ensp;&ensp;&ensp;- PhD student in Robotics and Intelligent Systems<br>
+          &ensp;&ensp;&ensp;- Supervisor: Prof. Giancarlo Ferrari Trecate, DECODE, EPFL<br>
+          &ensp;&ensp;&ensp;- Co-supervisor: Prof. Andreas Krause, LAS, ETHZ<br>
+          <br>
+
+          &ensp;• Sharif University of Technology, Iran<br>
+          &ensp;&ensp;&ensp;  *September 2015 - July 2020*<br>
+          &ensp;&ensp;&ensp;- B.SC. in Electrical Engineering, Control specialization<br>
+          &ensp;&ensp;&ensp;- 1st rank in the control group with a GPA of 18.45<br>
+          <br>
+
+          &ensp;• Sharif University of Technology, Iran<br>
+          &ensp;&ensp;&ensp;  *September 2015 - July 2020*<br>
+          &ensp;&ensp;&ensp;- B.SC. in Computer Science<br>
+          <br>
+
+          &ensp;• Farzanegan Middle and High Schools, Iran<br>
+          &ensp;&ensp;&ensp;  *September 2008 - June 2015*<br>
+          &ensp;&ensp;&ensp;- Associated with the National Organization for Development of Exceptional Talents
+
           "
           imageUrl: "picture.png"
           imageWidth: 160
