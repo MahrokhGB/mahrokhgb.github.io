@@ -28,6 +28,34 @@
         }
 
     </style>
+    <style>
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --theme: rgb(29, 30, 32);
+                --entry: rgb(46, 46, 51);
+                --primary: rgb(218, 218, 219);
+                --secondary: rgb(155, 156, 157);
+                --tertiary: rgb(65, 66, 68);
+                --content: rgb(196, 196, 197);
+                --code-block-bg: rgb(46, 46, 51);
+                --code-bg: rgb(55, 56, 62);
+                --border: rgb(51, 51, 51);
+            }
+
+            .list {
+                background: var(--theme);
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-track {
+                background: 0 0;
+            }
+
+            .list:not(.dark)::-webkit-scrollbar-thumb {
+                border-color: var(--theme);
+            }
+        }
+
+    </style>
 </noscript><meta property="og:title" content="Mahrokh Ghoddousi Boroujeni" />
 <meta property="og:description" content="I am a PhD student at EPFL in Lausanne, Switzerland. My research focuses mostly on Machine Learning and Auotomation and Control Theory." />
 <meta property="og:type" content="website" />
@@ -87,7 +115,8 @@
         <img draggable="false" src="http://localhost:1313/picture.png" alt="Mahrokh Ghoddousi Boroujeni" title="Mahrokh Ghoddousi Boroujeni"
             height="160" width="160" />
         <h1>Mahrokh Ghoddousi Boroujeni</h1>
-        <span>I am a PhD student at EPFL in Lausanne, Switzerland. My research focuses mostly on Machine Learning and Auotomation and Control Theory.</span><div class="social-icons" >
+        <span><p>I am a PhD student at EPFL in Lausanne, Switzerland. My research focuses mostly on Machine Learning and Auotomation and Control Theory. <br><br> <strong>📚Research Interests:</strong><br>  - Automation and Control<br>  - Generalization Theory<br>  - Probabilistic Models<br>  - Meta and Transfer Learning<br>  - Machine Learning<br> <br><br> <strong>🎓Education:</strong><br>  École Polytechnique Fédérale de Lausanne (EPFL), Switzerland<br> PhD student in Robotics and Intelligent Systems</p>
+<h1 id="-supervisor-prof-giancarlo-ferrari-trecate-decode-epfl---co-supervisor-prof-andreas-krause-las-ethz---edrs-phd-program">• Supervisor: Prof. Giancarlo Ferrari Trecate, DECODE, EPFL # • Co-supervisor: Prof. Andreas Krause, LAS, ETHZ # • EDRS PhD program</h1></span><div class="social-icons" >
     <a href="cv.pdf" target="_blank" rel="noopener noreferrer me"
         title="CV">
         
@@ -139,19 +168,14 @@
 </div>
 
         <div class="buttons">
-            <a class="button" href="education/" rel="noopener" title="Education">
-                <span class="button-inner">
-                    Education
-                </span>
-            </a>
             <a class="button" href="experience/" rel="noopener" title="Experience">
                 <span class="button-inner">
                     Experience
                 </span>
             </a>
-            <a class="button" href="papers/" rel="noopener" title="Papers">
+            <a class="button" href="papers/" rel="noopener" title="Publications">
                 <span class="button-inner">
-                    Papers
+                    Publications
                 </span>
             </a>
             <a class="button" href="projects/" rel="noopener" title="Projects">
@@ -203,6 +227,18 @@
             }
         });
     });
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
 
 </script>
 </body>

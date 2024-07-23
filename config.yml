@@ -29,9 +29,10 @@ params:
     author: Mahrokh Ghoddousi Boroujeni
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
-    defaultTheme: light
+    # defaultTheme: light
     hideFooter: false
-    disableThemeToggle: true
+    defaultTheme: auto
+    # disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
@@ -51,17 +52,33 @@ params:
     profileMode:
           enabled: true
           title: Mahrokh Ghoddousi Boroujeni
-          subtitle: "I am a PhD student at EPFL in Lausanne, Switzerland. My research focuses mostly on Machine Learning and Auotomation and Control Theory."
+          subtitle: "I am a PhD student at EPFL in Lausanne, Switzerland. My research focuses mostly on Machine Learning and Auotomation and Control Theory.
+          <br><br>
+          **📚Research Interests:**<br>
+          &ensp;- Automation and Control<br>
+          &ensp;- Generalization Theory<br>
+          &ensp;- Probabilistic Models<br>
+          &ensp;- Meta and Transfer Learning<br>
+          &ensp;• Machine Learning<br>
+          <br><br>
+          **🎓Education:**<br>
+          &ensp;École Polytechnique Fédérale de Lausanne (EPFL), Switzerland<br>
+          PhD student in Robotics and Intelligent Systems
+          November 2020 - Present
+          • Supervisor: Prof. Giancarlo Ferrari Trecate, DECODE, EPFL
+          • Co-supervisor: Prof. Andreas Krause, LAS, ETHZ
+          • EDRS PhD program
+          "
           imageUrl: "picture.png"
           imageWidth: 160
           imageHeight: 160
           imageTitle: Mahrokh Ghoddousi Boroujeni
           buttons:
-            - name: Education
-              url: education/
+            # - name: Education
+            #   url: education/
             - name: Experience
               url: experience/
-            - name: Papers
+            - name: Publications
               url: papers/
             - name: Projects
               url: projects/
