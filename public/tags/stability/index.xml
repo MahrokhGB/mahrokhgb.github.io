@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/tags/stability/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A PAC-Bayesian Framework for Optimal Control with Stability Guarantees</title>
-      <link>http://localhost:1313/papers/paper1/</link>
+      <link>http://localhost:1313/papers/pac-snoc/</link>
       <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/paper1/</guid>
+      <guid>http://localhost:1313/papers/pac-snoc/</guid>
       <description>This paper presents a novel approach using PAC-Bayes theory to provide generalization bounds for Stochastic Nonlinear Optimal Control (SNOC), enhancing control policy reliability and mitigating overfitting, demonstrated through neural network controllers in cooperative robotics. To appear in the IEEE Conference on Decision and Control, 2024.</description>
     </item>
   </channel>
