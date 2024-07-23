@@ -84,7 +84,7 @@ params:
         - name: GitHub
           url: https://github.com/MahrokhGB
         - name: LinkedIn
-           url: https://www.linkedin.com/in/mahrokhghoddousi/
+          url: https://www.linkedin.com/in/mahrokhghoddousi
         # - name: YouTube
         #   url: https://www.youtube.com/@alexandermccallsmithoffici9000
         # - name: Twitter
