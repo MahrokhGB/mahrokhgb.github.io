@@ -50,27 +50,23 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
-          imageUrl: "picture.jpeg"
+          title: Mahrokh Ghoddousi Boroujeni
+          subtitle: "I am a PhD student at EPFL in Lausanne, Switzerland. My research focuses mostly on Machine Learning and Auotomation and Control Theory."
+          imageUrl: "picture.png"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Moritz-Maria von Igelfeld
+          imageTitle: Mahrokh Ghoddousi Boroujeni
           buttons:
+            - name: Education
+              url: education/
+            - name: Experience
+              url: experience/
             - name: Papers
               url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            - name: Projects
+              url: projects/
+            # - name: Blog
+            #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
         - name: CV
@@ -87,8 +83,8 @@ params:
           url: https://scholar.google.com/citations?user=hE8QWWcAAAAJ&hl=en
         - name: GitHub
           url: https://github.com/MahrokhGB
-        # - name: Substack
-        #   url: https://pmichaillat.substack.com
+        - name: LinkedIn
+           url: https://www.linkedin.com/in/mahrokhghoddousi/
         # - name: YouTube
         #   url: https://www.youtube.com/@alexandermccallsmithoffici9000
         # - name: Twitter
