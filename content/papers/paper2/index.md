@@ -8,7 +8,7 @@ author: ["Mahrokh Ghoddousi Boroujeni", "Andreas Krause", "Giancarlo Ferrari-Tre
 description: "This paper introduces PAC-PFL, a personalized federated learning algorithm that leverages PAC-Bayesian theory and differential privacy to enhance model accuracy and calibration for heterogeneous clients, validated through experiments on various datasets. Under review." 
 summary: "This paper proposes PAC-PFL, a personalized federated learning algorithm using a PAC-Bayesian framework and differential privacy to enhance model accuracy and calibration for heterogeneous clients, demonstrated through experiments on multiple datasets." 
 cover:
-    image: "35_setup.pdf"
+    image: "setup.png"
     alt: "Setup"
     relative: false
 editPost:
@@ -21,7 +21,7 @@ editPost:
 
 ##### Download
 
-+ [Paper](PAC_PFL_TMLR.pdf)
++ [Paper](PAC_PFL.pdf)
 + [Code](https://github.com/MahrokhGB/Federated-Hyper-Posterior-Learning)
 
 ---
@@ -34,7 +34,7 @@ Federated learning aims to infer a shared model from private and decentralized d
 
 ##### Fig 1: Setup
 
-![](35_setup.pdf)
+![](setup.png)
 
 ---
 

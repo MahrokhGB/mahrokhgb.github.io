@@ -13,7 +13,14 @@
       <link>http://localhost:1313/papers/paper1/</link>
       <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/papers/paper1/</guid>
-      <description>This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013.</description>
+      <description>This paper presents a novel approach using PAC-Bayes theory to provide generalization bounds for Stochastic Nonlinear Optimal Control (SNOC), enhancing control policy reliability and mitigating overfitting, demonstrated through neural network controllers in cooperative robotics. To appear in the IEEE Conference on Decision and Control, 2024.</description>
+    </item>
+    <item>
+      <title>Personalized Federated Learning of Probabilistic Models: A PAC-Bayesian Approach </title>
+      <link>http://localhost:1313/papers/paper2/</link>
+      <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/papers/paper2/</guid>
+      <description>This paper introduces PAC-PFL, a personalized federated learning algorithm that leverages PAC-Bayesian theory and differential privacy to enhance model accuracy and calibration for heterogeneous clients, validated through experiments on various datasets. Under review.</description>
     </item>
   </channel>
 </rss>

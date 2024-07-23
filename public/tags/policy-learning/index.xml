@@ -13,7 +13,7 @@
       <link>http://localhost:1313/papers/paper1/</link>
       <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/papers/paper1/</guid>
-      <description>This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013.</description>
+      <description>This paper presents a novel approach using PAC-Bayes theory to provide generalization bounds for Stochastic Nonlinear Optimal Control (SNOC), enhancing control policy reliability and mitigating overfitting, demonstrated through neural network controllers in cooperative robotics. To appear in the IEEE Conference on Decision and Control, 2024.</description>
     </item>
   </channel>
 </rss>

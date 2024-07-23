@@ -11,6 +11,33 @@
     <loc>http://localhost:1313/officehours/</loc>
     <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/papers/paper1/</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/pac-bayes/</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/policy-learning/</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/stability/</loc>
+    <lastmod>2024-03-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/federated-learning/</loc>
+    <lastmod>2024-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/papers/paper2/</loc>
+    <lastmod>2024-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/probabilistic-models/</loc>
+    <lastmod>2024-01-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/data/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
@@ -45,42 +72,6 @@
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/spanish/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/history-of-oil/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/mediterranean-world/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/oleic-science/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/papers/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/papers/paper1/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/canine-pulmonary-efficiency/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/canine-science/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/experimental-zoology/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/sausage-dogs/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/papers/paper2/</loc>
-    <lastmod>2024-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/zoology/</loc>
     <lastmod>2024-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/courses/</loc>
