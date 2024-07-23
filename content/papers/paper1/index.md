@@ -1,18 +1,18 @@
 ---
-title: "Unusual Uses For Olive Oil" 
-date: 2013-01-15
-lastmod: 2024-07-12
-tags: ["philology","oleic science","history of oil","Mediterranean world"]
-author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
-description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
-summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
+title: "A PAC-Bayesian Framework for Optimal Control with Stability Guarantees" 
+date: 2024-03-26
+lastmod: 2024-03-26
+tags: ["PAC-Bayes","Policy Learning","Stability"]
+author: ["Mahrokh Ghoddousi Boroujeni", "Clara Lucía Galimberti", "Andreas Krause", "Giancarlo Ferrari-Trecate"]
+description: "This paper presents a novel approach using PAC-Bayes theory to provide generalization bounds for Stochastic Nonlinear Optimal Control (SNOC), enhancing control policy reliability and mitigating overfitting, demonstrated through neural network controllers in cooperative robotics. To appear in the IEEE Conference on Decision and Control, 2024." 
+summary: "The paper introduces a novel method leveraging PAC-Bayes theory to establish rigorous generalization bounds for Stochastic Nonlinear Optimal Control (SNOC), aiming to improve control policy reliability and mitigate overfitting. The approach incorporates prior knowledge into the synthesis process and ensures closed-loop stability, demonstrated through the design of neural network controllers for cooperative robotics tasks." 
 cover:
-    image: "paper1.png"
-    alt: "Some Uses For Olive Oil"
+    image: "svgd.gif"
+    alt: "Our controller"
     relative: false
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Oleic Science"
+    URL: "https://github.com/DecodEPFL/PAC-SNOC"
+    Text: "IEEE Conference on Decision and Control"
 
 ---
 
@@ -20,43 +20,40 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper1.pdf)
-+ [Online appendix](appendix1.pdf)
-+ [Code and data](https://github.com/pmichaillat/feru)
++ [Paper](PAC-SNOC_CDC.pdf)
++ [Code](https://github.com/DecodEPFL/PAC-SNOC)
 
 ---
 
 ##### Abstract
 
-This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Stochastic Nonlinear Optimal Control (SNOC) involves minimizing a cost function that averages out the random uncertainties affecting the dynamics of nonlinear systems. For tractability reasons, this problem is typically addressed by minimizing an empirical cost, which represents the average cost across a finite dataset of sampled disturbances. However, this approach raises the challenge of quantifying the control performance against out-of-sample uncertainties. Particularly, in scenarios where the training dataset is small, SNOC policies are prone to overfitting, resulting in significant discrepancies between the empirical cost and the true cost, i.e., the average SNOC cost incurred during control deployment. Therefore, establishing generalization bounds on the true cost is crucial for ensuring reliability in real-world applications. In this paper, we introduce a novel approach that leverages PAC-Bayes theory to provide rigorous generalization bounds for SNOC. Based on these bounds, we propose a new method for designing optimal controllers, offering a principled way to incorporate prior knowledge into the synthesis process, which aids in improving the control policy and mitigating overfitting. Furthermore, by leveraging recent parametrizations of stabilizing controllers for nonlinear systems, our framework inherently ensures closed-loop stability. The effectiveness of our proposed method in incorporating prior knowledge and combating overfitting is shown by designing neural network controllers for tasks in cooperative robotics.
 
 ---
 
-##### Figure 6: Some Uses For Olive Oil
+##### Gif: Our Controller
 
-![](paper1.png)
+![](svgd.gif)
 
 ---
 
 ##### Citation
 
-Unterholzer, Detlev A., and  Moritz-Maria von Igelfeld. 2013. "Unusual Uses For Olive Oil." *Journal of Oleic Science* 34 (1): 449–489. http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
+M. G. Boroujeni, C. L. Galimberti, A. Krause, and G. Ferrari-Trecate, “A
+pac-bayesian framework for optimal control with stability guarantees,”
+arXiv preprint arXiv:2403.17790, 2024.
 
 ```BibTeX
-@article{UI13,
-author = {Detlev A. Unterholzer and Moritz-Maria von Igelfeld},
-year = {2013},
-title ={Unusual Uses For Olive Oil},
-journal = {Journal of Oleic Science},
-volume = {34},
-number = {1},
-pages = {449--489},
-url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
+@misc{boroujeni2024pacbayesianframeworkoptimalcontrol,
+      title={A PAC-Bayesian Framework for Optimal Control with Stability Guarantees}, 
+      author={Mahrokh Ghoddousi Boroujeni and Clara Lucía Galimberti and Andreas Krause and Giancarlo Ferrari-Trecate},
+      year={2024},
+      eprint={2403.17790},
+      archivePrefix={arXiv},
+      primaryClass={eess.SY},
+      url={https://arxiv.org/abs/2403.17790}, 
+}
 ```
 
 ---
 
-##### Related material
-
-+ [Presentation slides](presentation1.pdf)
-+ [Summary of the paper](https://www.penguinrandomhouse.com/books/110403/unusual-uses-for-olive-oil-by-alexander-mccall-smith/)
