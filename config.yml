@@ -11,27 +11,28 @@ taxonomies:
 
 menu:
     main:
-        - name: Education
-          url: education/
+        - name: Skills
+          url: skills/
           weight: 5
         - name: Experience
           url: experience/
           weight: 3
-        - name: Papers
-          url: papers/
+        - name: Publications
+          url: publications/
           weight: 2
-        - name: Projects
-          url: projects/
-          weight: 4
+        # - name: Awards
+        #   url: awards/
+        #   weight: 4
 
 params:
     description: "I am a PhD student at EPFL in Lausanne, Switzerland. My research focuses mostly on Machine Learning and Auotomation and Control Theory."
     author: Mahrokh Ghoddousi Boroujeni
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
-    defaultTheme: light
+    # defaultTheme: light
     hideFooter: false
-    disableThemeToggle: true
+    defaultTheme: auto
+    # disableThemeToggle: true
     ShowShareButtons: false
     ShowReadingTime: false
     disableSpecial1stPost: true
@@ -40,7 +41,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["education","papers","experience","projects"]
+    MainSections: ["publications","experience","skills"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -50,27 +51,113 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
-          imageUrl: "picture.jpeg"
+          title: Mahrokh Ghoddousi Boroujeni
+          subtitle: "
+          I am a PhD student at EPFL in Lausanne, Switzerland,
+          supervised by [Prof. Giancarlo Ferrari Trecate](https://people.epfl.ch/giancarlo.ferraritrecate)
+          and co-supervised by [Prof. Andreas Krause](https://las.inf.ethz.ch/krausea).
+
+          My research focuses on employing advanced machine learning techniques to
+          develop complex controllers for intricate tasks.
+
+          <br><br>
+          Learning models and controllers from data has become ubiquitous,
+          yet it often involves *limited* and *noisy* datasets.
+
+          I study the impact of such factors on the performance and reliability
+          of learned models and controllers.
+
+          Specifically, I aim to develop models and controllers that *generalize well*
+          and *maintain stability* beyond their training data.
+          I also explore the *uncertainty* in the learned model due to noise using probabilistic modeling.
+          Finally, I am interested in leveraging multiple related datasets through
+          *meta-learning* and *federated learning* approaches to enhance performance and robustness.
+
+
+          <br><br>
+          <hr>
+          <br>
+
+          **📚 Research interests:**<br><br>
+          <table>
+          <tr>
+          <th>
+          *Machine Learning*
+          &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;</th>
+          <th>
+          &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+          &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+          *Automation and Control* </th>
+          </tr>
+          <tr>
+          <td>
+          &ensp;• Generalization Theory<br>
+          &ensp;• Probabilistic Models<br>
+          &ensp;• Meta and Transfer Learning<br>
+          &ensp;• Differential Privacy<br>
+
+          </td>
+          <td>
+          &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+          &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+          &ensp;• Stability<br>
+          &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+          &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+          &ensp;• Data-driven control<br>
+          &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+          &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+          &ensp;• Policy Optimization<br>
+          &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+          &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+          &ensp;• Optimal Control<br>
+          </td>
+          </tr>
+          </table>
+
+
+          <br><br>
+          <hr>
+          <br>
+          **🎓 Education:**<br><br>
+          &ensp;• PhD, Robotics and Intelligent Systems<br>
+          &ensp;&ensp;&ensp;  École Polytechnique Fédérale de Lausanne (EPFL), Switzerland<br>
+          &ensp;&ensp;&ensp;  *November 2020 - Present<br>*
+          &ensp;&ensp;&ensp;- Supervisor: [Prof. Giancarlo Ferrari Trecate](https://people.epfl.ch/giancarlo.ferraritrecate), DECODE, EPFL<br>
+          &ensp;&ensp;&ensp;- Co-supervisor: [Prof. Andreas Krause](https://las.inf.ethz.ch/krausea), LAS, ETHZ<br>
+          <br>
+
+          &ensp;• B.Sc, Electrical Engineering, Control specialization<br>
+          &ensp;&ensp;&ensp;  Sharif University of Technology, Iran<br>
+          &ensp;&ensp;&ensp;  *September 2015 - July 2020*<br>
+          &ensp;&ensp;&ensp;- 1st rank in the control group with a GPA of 18.45<br>
+          <br>
+
+          &ensp;• B.Sc, Computer Science<br>
+          &ensp;&ensp;&ensp;  Sharif University of Technology, Iran<br>
+          &ensp;&ensp;&ensp;  *September 2015 - July 2020*<br>
+          <br>
+
+          &ensp;• High School Diploma, Mathematics and Physics<br>
+          &ensp;&ensp;&ensp;  Farzanegan High Schools, Iran<br>
+          &ensp;&ensp;&ensp;  *September 2008 - June 2015*<br>
+          &ensp;&ensp;&ensp;- Associated with the National Organization for Development of Exceptional Talents
+
+          "
+          imageUrl: "picture.png"
           imageWidth: 160
           imageHeight: 160
-          imageTitle: Moritz-Maria von Igelfeld
+          imageTitle: Mahrokh Ghoddousi Boroujeni
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            - name: Publications
+              url: publications/
+            - name: Experience
+              url: experience/
+            # - name: Awards
+            #   url: awards/
+            - name: Skills
+              url: skills/
+            # - name: Blog
+            #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
         - name: CV
@@ -87,8 +174,8 @@ params:
           url: https://scholar.google.com/citations?user=hE8QWWcAAAAJ&hl=en
         - name: GitHub
           url: https://github.com/MahrokhGB
-        # - name: Substack
-        #   url: https://pmichaillat.substack.com
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/mahrokhghoddousi
         # - name: YouTube
         #   url: https://www.youtube.com/@alexandermccallsmithoffici9000
         # - name: Twitter
