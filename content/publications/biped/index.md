@@ -1,13 +1,13 @@
 ---
-title: "A Unified Framework for Walking and Running of Bipedal Robots" 
+title: "A Unified Framework for Walking and Running of Bipedal Robots"
 date: 2021-12-06
 lastmod: 2012-12-06
 tags: ["Bipedal Robot","Feedback Control","Walking Gate", "Running Gate"]
 author: ["Mahrokh Ghoddousi Boroujeni", "Elham Daneshmand", "Ludovic Righetti", "Majid Khadiv"]
-description: "This paper presents a framework for generating various walking and running gaits in bipedal robots by using virtual constraints to relax the fixed center of mass height assumption, demonstrated through simulations of the robot Bolt under environmental uncertainties and disturbances. In International Conference on Advanced Robotics, 2021." 
-summary: "This paper introduces a novel framework for generating diverse walking and running gaits in bipedal robots by relaxing the fixed center of mass height assumption, using virtual constraints in the centroidal space to maintain simplicity and adaptability through a feedback control mechanism. The effectiveness of this approach is demonstrated through simulations of the biped robot Bolt, handling environmental uncertainties and external disturbances." 
+description: "This paper presents a framework for generating various walking and running gaits in bipedal robots by using virtual constraints to relax the fixed center of mass height assumption, demonstrated through simulations of the robot Bolt under environmental uncertainties and disturbances. In International Conference on Advanced Robotics, 2021."
+summary: "This paper introduces a novel framework for generating diverse walking and running gaits in bipedal robots by relaxing the fixed center of mass height assumption, using virtual constraints in the centroidal space to maintain simplicity and adaptability through a feedback control mechanism. The effectiveness of this approach is demonstrated through simulations of the biped robot Bolt, handling environmental uncertainties and external disturbances."
 cover:
-    Image: "walking.gif"
+    Image: "biped.gif"
     alt: "Walking gate"
     relative: false
 editPost:
@@ -44,8 +44,8 @@ M. G. Boroujeni, E. Daneshman, L. Righetti and M. Khadiv, "A unified framework f
 ```BibTeX
 @INPROCEEDINGS{9659392,
   author={Boroujeni, Mahrokh Ghoddousi and Daneshman, Elham and Righetti, Ludovic and Khadiv, Majid},
-  booktitle={2021 20th International Conference on Advanced Robotics (ICAR)}, 
-  title={A unified framework for walking and running of bipedal robots}, 
+  booktitle={2021 20th International Conference on Advanced Robotics (ICAR)},
+  title={A unified framework for walking and running of bipedal robots},
   year={2021},
   volume={},
   number={},
