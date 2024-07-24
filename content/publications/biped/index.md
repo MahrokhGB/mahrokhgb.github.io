@@ -33,7 +33,7 @@ In this paper, we propose a novel framework capable of generating various walkin
 
 ##### Video: Walking gate
 
-![](walking.gif)
+![](biped.gif)
 
 ---
 
