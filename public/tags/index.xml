@@ -2,199 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Mahrokh Ghoddousi Boroujeni</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://mahrokhgb.github.io/tags/</link>
     <description>Recent content in Tags on Mahrokh Ghoddousi Boroujeni</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mahrokhgb.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PAC-Bayes</title>
-      <link>http://localhost:1313/tags/pac-bayes/</link>
+      <link>https://mahrokhgb.github.io/tags/pac-bayes/</link>
       <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/pac-bayes/</guid>
+      <guid>https://mahrokhgb.github.io/tags/pac-bayes/</guid>
       <description></description>
     </item>
     <item>
       <title>Policy Learning</title>
-      <link>http://localhost:1313/tags/policy-learning/</link>
+      <link>https://mahrokhgb.github.io/tags/policy-learning/</link>
       <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/policy-learning/</guid>
+      <guid>https://mahrokhgb.github.io/tags/policy-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Stability</title>
-      <link>http://localhost:1313/tags/stability/</link>
+      <link>https://mahrokhgb.github.io/tags/stability/</link>
       <pubDate>Tue, 26 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/stability/</guid>
+      <guid>https://mahrokhgb.github.io/tags/stability/</guid>
       <description></description>
     </item>
     <item>
       <title>Federated Learning</title>
-      <link>http://localhost:1313/tags/federated-learning/</link>
+      <link>https://mahrokhgb.github.io/tags/federated-learning/</link>
       <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/federated-learning/</guid>
+      <guid>https://mahrokhgb.github.io/tags/federated-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Probabilistic Models</title>
-      <link>http://localhost:1313/tags/probabilistic-models/</link>
+      <link>https://mahrokhgb.github.io/tags/probabilistic-models/</link>
       <pubDate>Tue, 16 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/probabilistic-models/</guid>
+      <guid>https://mahrokhgb.github.io/tags/probabilistic-models/</guid>
       <description></description>
     </item>
     <item>
       <title>Bipedal Robot</title>
-      <link>http://localhost:1313/tags/bipedal-robot/</link>
+      <link>https://mahrokhgb.github.io/tags/bipedal-robot/</link>
       <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/bipedal-robot/</guid>
+      <guid>https://mahrokhgb.github.io/tags/bipedal-robot/</guid>
       <description></description>
     </item>
     <item>
       <title>Feedback Control</title>
-      <link>http://localhost:1313/tags/feedback-control/</link>
+      <link>https://mahrokhgb.github.io/tags/feedback-control/</link>
       <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/feedback-control/</guid>
+      <guid>https://mahrokhgb.github.io/tags/feedback-control/</guid>
       <description></description>
     </item>
     <item>
       <title>Running Gate</title>
-      <link>http://localhost:1313/tags/running-gate/</link>
+      <link>https://mahrokhgb.github.io/tags/running-gate/</link>
       <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/running-gate/</guid>
+      <guid>https://mahrokhgb.github.io/tags/running-gate/</guid>
       <description></description>
     </item>
     <item>
       <title>Walking Gate</title>
-      <link>http://localhost:1313/tags/walking-gate/</link>
+      <link>https://mahrokhgb.github.io/tags/walking-gate/</link>
       <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/walking-gate/</guid>
+      <guid>https://mahrokhgb.github.io/tags/walking-gate/</guid>
       <description></description>
     </item>
     <item>
       <title>Differential Privacy</title>
-      <link>http://localhost:1313/tags/differential-privacy/</link>
+      <link>https://mahrokhgb.github.io/tags/differential-privacy/</link>
       <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/differential-privacy/</guid>
+      <guid>https://mahrokhgb.github.io/tags/differential-privacy/</guid>
       <description></description>
     </item>
     <item>
       <title>Real-Time Pricing</title>
-      <link>http://localhost:1313/tags/real-time-pricing/</link>
+      <link>https://mahrokhgb.github.io/tags/real-time-pricing/</link>
       <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/real-time-pricing/</guid>
+      <guid>https://mahrokhgb.github.io/tags/real-time-pricing/</guid>
       <description></description>
     </item>
     <item>
       <title>Smart Grid</title>
-      <link>http://localhost:1313/tags/smart-grid/</link>
+      <link>https://mahrokhgb.github.io/tags/smart-grid/</link>
       <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/smart-grid/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Dataset</title>
-      <link>http://localhost:1313/tags/dataset/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/dataset/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>French</title>
-      <link>http://localhost:1313/tags/french/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/french/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Irregular Verbs</title>
-      <link>http://localhost:1313/tags/irregular-verbs/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/irregular-verbs/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Italian</title>
-      <link>http://localhost:1313/tags/italian/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/italian/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Philology</title>
-      <link>http://localhost:1313/tags/philology/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/philology/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Portuguese</title>
-      <link>http://localhost:1313/tags/portuguese/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/portuguese/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Python</title>
-      <link>http://localhost:1313/tags/python/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/python/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Romance Languages</title>
-      <link>http://localhost:1313/tags/romance-languages/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/romance-languages/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Simulations</title>
-      <link>http://localhost:1313/tags/simulations/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/simulations/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Spanish</title>
-      <link>http://localhost:1313/tags/spanish/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/spanish/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Portugese</title>
-      <link>http://localhost:1313/tags/portugese/</link>
-      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/portugese/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Celtic Languages</title>
-      <link>http://localhost:1313/tags/celtic-languages/</link>
-      <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/celtic-languages/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Irish</title>
-      <link>http://localhost:1313/tags/irish/</link>
-      <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/irish/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Language Modernization</title>
-      <link>http://localhost:1313/tags/language-modernization/</link>
-      <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/language-modernization/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Profanity</title>
-      <link>http://localhost:1313/tags/profanity/</link>
-      <pubDate>Sat, 16 Jun 1990 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/profanity/</guid>
+      <guid>https://mahrokhgb.github.io/tags/smart-grid/</guid>
       <description></description>
     </item>
   </channel>

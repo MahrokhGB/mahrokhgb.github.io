@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Real-Time Pricing on Mahrokh Ghoddousi Boroujeni</title>
-    <link>http://localhost:1313/tags/real-time-pricing/</link>
+    <link>https://mahrokhgb.github.io/tags/real-time-pricing/</link>
     <description>Recent content in Real-Time Pricing on Mahrokh Ghoddousi Boroujeni</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>en</language>
     <lastBuildDate>Wed, 11 Dec 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/real-time-pricing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mahrokhgb.github.io/tags/real-time-pricing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Privacy of Real-Time Pricing in Smart Grid</title>
-      <link>http://localhost:1313/publications/dp/</link>
+      <link>https://mahrokhgb.github.io/publications/dp/</link>
       <pubDate>Wed, 11 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publications/dp/</guid>
+      <guid>https://mahrokhgb.github.io/publications/dp/</guid>
       <description>This paper proposes using Differential Privacy to protect household occupancy states in smart grids by perturbing electricity rates before publication, demonstrated through a Markov model and tested on data inspired by household occupancy models. In the IEEE Conference on Decision and Control, 2019.</description>
     </item>
   </channel>
