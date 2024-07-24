@@ -11,14 +11,14 @@ taxonomies:
 
 menu:
     main:
-        - name: Education
-          url: education/
+        - name: Skills
+          url: skills/
           weight: 5
         - name: Experience
           url: experience/
           weight: 3
-        - name: Papers
-          url: papers/
+        - name: Publications
+          url: publications/
           weight: 2
         - name: Projects
           url: projects/
@@ -41,7 +41,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["education","papers","experience","projects"]
+    MainSections: ["publications","experience","projects","skills"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -91,25 +91,26 @@ params:
 
           <br><br>
           **🎓Education:**<br><br>
-          &ensp;• École Polytechnique Fédérale de Lausanne (EPFL), Switzerland<br>
+          &ensp;• PhD, Robotics and Intelligent Systems<br>
+          &ensp;&ensp;&ensp;  École Polytechnique Fédérale de Lausanne (EPFL), Switzerland<br>
           &ensp;&ensp;&ensp;  *November 2020 - Present<br>*
-          &ensp;&ensp;&ensp;- PhD student in Robotics and Intelligent Systems<br>
-          &ensp;&ensp;&ensp;- Supervisor: Prof. Giancarlo Ferrari Trecate, DECODE, EPFL<br>
-          &ensp;&ensp;&ensp;- Co-supervisor: Prof. Andreas Krause, LAS, ETHZ<br>
+          &ensp;&ensp;&ensp;- Supervisor: [Prof. Giancarlo Ferrari Trecate](https://people.epfl.ch/giancarlo.ferraritrecate), DECODE, EPFL<br>
+          &ensp;&ensp;&ensp;- Co-supervisor: [Prof. Andreas Krause](https://las.inf.ethz.ch/krausea), LAS, ETHZ<br>
           <br>
 
-          &ensp;• Sharif University of Technology, Iran<br>
+          &ensp;• B.Sc, Electrical Engineering, Control specialization<br>
+          &ensp;&ensp;&ensp;  Sharif University of Technology, Iran<br>
           &ensp;&ensp;&ensp;  *September 2015 - July 2020*<br>
-          &ensp;&ensp;&ensp;- B.SC. in Electrical Engineering, Control specialization<br>
           &ensp;&ensp;&ensp;- 1st rank in the control group with a GPA of 18.45<br>
           <br>
 
-          &ensp;• Sharif University of Technology, Iran<br>
+          &ensp;• B.Sc, Computer Science<br>
+          &ensp;&ensp;&ensp;  Sharif University of Technology, Iran<br>
           &ensp;&ensp;&ensp;  *September 2015 - July 2020*<br>
-          &ensp;&ensp;&ensp;- B.SC. in Computer Science<br>
           <br>
 
-          &ensp;• Farzanegan Middle and High Schools, Iran<br>
+          &ensp;• High School Diploma, Mathematics and Physics<br>
+          &ensp;&ensp;&ensp;  Farzanegan High Schools, Iran<br>
           &ensp;&ensp;&ensp;  *September 2008 - June 2015*<br>
           &ensp;&ensp;&ensp;- Associated with the National Organization for Development of Exceptional Talents
 
@@ -119,14 +120,14 @@ params:
           imageHeight: 160
           imageTitle: Mahrokh Ghoddousi Boroujeni
           buttons:
-            # - name: Education
-            #   url: education/
+            - name: Publications
+              url: publications/
             - name: Experience
               url: experience/
-            - name: Publications
-              url: papers/
             - name: Projects
               url: projects/
+            - name: Skills
+              url: skills/
             # - name: Blog
             #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 

@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/tags/running-gate/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Unified Framework for Walking and Running of Bipedal Robots</title>
-      <link>http://localhost:1313/papers/biped/</link>
+      <link>http://localhost:1313/publications/biped/</link>
       <pubDate>Mon, 06 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/biped/</guid>
+      <guid>http://localhost:1313/publications/biped/</guid>
       <description>This paper presents a framework for generating various walking and running gaits in bipedal robots by using virtual constraints to relax the fixed center of mass height assumption, demonstrated through simulations of the robot Bolt under environmental uncertainties and disturbances. In International Conference on Advanced Robotics, 2021.</description>
     </item>
   </channel>
