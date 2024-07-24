@@ -20,9 +20,9 @@ menu:
         - name: Publications
           url: publications/
           weight: 2
-        - name: Projects
-          url: projects/
-          weight: 4
+        # - name: Awards
+        #   url: awards/
+        #   weight: 4
 
 params:
     description: "I am a PhD student at EPFL in Lausanne, Switzerland. My research focuses mostly on Machine Learning and Auotomation and Control Theory."
@@ -41,7 +41,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["publications","experience","projects","skills"]
+    MainSections: ["publications","experience","skills"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -52,12 +52,36 @@ params:
     profileMode:
           enabled: true
           title: Mahrokh Ghoddousi Boroujeni
-          subtitle: "I am a PhD student at EPFL in Lausanne, Switzerland. My research focuses mostly on Machine Learning and Auotomation and Control Theory.
+          subtitle: "
+          I am a PhD student at EPFL in Lausanne, Switzerland,
+          supervised by [Prof. Giancarlo Ferrari Trecate](https://people.epfl.ch/giancarlo.ferraritrecate)
+          and co-supervised by [Prof. Andreas Krause](https://las.inf.ethz.ch/krausea).
+
+          My research focuses on employing advanced machine learning techniques to
+          develop complex controllers for intricate tasks.
+
           <br><br>
-          **📚Research interests:**<br><br>
+          Learning models and controllers from data has become ubiquitous,
+          yet it often involves *limited* and *noisy* datasets.
+
+          I study the impact of such factors on the performance and reliability
+          of learned models and controllers.
+
+          Specifically, I aim to develop models and controllers that *generalize well*
+          and *maintain stability* beyond their training data.
+          I also explore the *uncertainty* in the learned model due to noise using probabilistic modeling.
+          Finally, I am interested in leveraging multiple related datasets through
+          *meta-learning* and *federated learning* approaches to enhance performance and robustness.
+
+
+          <br><br>
+          <hr>
+          <br>
+
+          **📚 Research interests:**<br><br>
           <table>
           <tr>
-          <th> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+          <th>
           *Machine Learning*
           &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;</th>
           <th>
@@ -83,14 +107,18 @@ params:
           &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
           &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
           &ensp;• Policy Optimization<br>
-
+          &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+          &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+          &ensp;• Optimal Control<br>
           </td>
           </tr>
           </table>
 
 
           <br><br>
-          **🎓Education:**<br><br>
+          <hr>
+          <br>
+          **🎓 Education:**<br><br>
           &ensp;• PhD, Robotics and Intelligent Systems<br>
           &ensp;&ensp;&ensp;  École Polytechnique Fédérale de Lausanne (EPFL), Switzerland<br>
           &ensp;&ensp;&ensp;  *November 2020 - Present<br>*
@@ -124,8 +152,8 @@ params:
               url: publications/
             - name: Experience
               url: experience/
-            - name: Projects
-              url: projects/
+            # - name: Awards
+            #   url: awards/
             - name: Skills
               url: skills/
             # - name: Blog
