@@ -1,11 +1,11 @@
 ---
-title: "A PAC-Bayesian Framework for Optimal Control with Stability Guarantees" 
+title: "A PAC-Bayesian Framework for Optimal Control with Stability Guarantees"
 date: 2024-03-26
 lastmod: 2024-03-26
 tags: ["PAC-Bayes","Policy Learning","Stability"]
 author: ["Mahrokh Ghoddousi Boroujeni", "Clara Lucía Galimberti", "Andreas Krause", "Giancarlo Ferrari-Trecate"]
-description: "This paper presents a novel approach using PAC-Bayes theory to provide generalization bounds for Stochastic Nonlinear Optimal Control (SNOC), enhancing control policy reliability and mitigating overfitting, demonstrated through neural network controllers in cooperative robotics. To appear in the IEEE Conference on Decision and Control, 2024." 
-summary: "The paper introduces a novel method leveraging PAC-Bayes theory to establish rigorous generalization bounds for Stochastic Nonlinear Optimal Control (SNOC), aiming to improve control policy reliability and mitigate overfitting. The approach incorporates prior knowledge into the synthesis process and ensures closed-loop stability, demonstrated through the design of neural network controllers for cooperative robotics tasks." 
+description: "This paper presents a novel approach using PAC-Bayes theory to provide generalization bounds for Stochastic Nonlinear Optimal Control (SNOC), enhancing control policy reliability and mitigating overfitting, demonstrated through neural network controllers in cooperative robotics. To appear in the IEEE Conference on Decision and Control, 2024."
+summary: "The paper introduces a novel method leveraging PAC-Bayes theory to establish rigorous generalization bounds for Stochastic Nonlinear Optimal Control (SNOC), aiming to improve control policy reliability and mitigate overfitting. The approach incorporates prior knowledge into the synthesis process and ensures closed-loop stability, demonstrated through the design of neural network controllers for cooperative robotics tasks."
 cover:
     image: "svgd.gif"
     alt: "Our controller"
@@ -32,8 +32,7 @@ Stochastic Nonlinear Optimal Control (SNOC) involves minimizing a cost function 
 ---
 
 ##### Gif: Our Controller
-
-![](svgd.gif)
+<p align="center"> <img src="./svgd.gif" alt="Our controller" width="511"/> </p>
 
 ---
 
@@ -45,13 +44,13 @@ arXiv preprint arXiv:2403.17790, 2024.
 
 ```BibTeX
 @misc{boroujeni2024pacbayesianframeworkoptimalcontrol,
-      title={A PAC-Bayesian Framework for Optimal Control with Stability Guarantees}, 
+      title={A PAC-Bayesian Framework for Optimal Control with Stability Guarantees},
       author={Mahrokh Ghoddousi Boroujeni and Clara Lucía Galimberti and Andreas Krause and Giancarlo Ferrari-Trecate},
       year={2024},
       eprint={2403.17790},
       archivePrefix={arXiv},
       primaryClass={eess.SY},
-      url={https://arxiv.org/abs/2403.17790}, 
+      url={https://arxiv.org/abs/2403.17790},
 }
 ```
 
