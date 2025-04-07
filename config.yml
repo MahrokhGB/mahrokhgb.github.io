@@ -55,7 +55,7 @@ params:
           subtitle: "
           I am a PhD student at EPFL in Lausanne, Switzerland,
           supervised by [Prof. Giancarlo Ferrari Trecate](https://people.epfl.ch/giancarlo.ferraritrecate)
-          and co-supervised by [Prof. Andreas Krause](https://las.inf.ethz.ch/krausea).
+          and co-supervised by [Prof. Andreas Krause.](https://las.inf.ethz.ch/krausea)
 
           My research focuses on employing advanced machine learning techniques to
           develop complex controllers for intricate tasks.
@@ -91,10 +91,10 @@ params:
           </tr>
           <tr>
           <td>
-          &ensp;• Generalization Theory<br>
-          &ensp;• Probabilistic Models<br>
-          &ensp;• Meta and Transfer Learning<br>
-          &ensp;• Differential Privacy<br>
+          &ensp;• Generalization theory<br>
+          &ensp;• Probabilistic models<br>
+          &ensp;• Meta and transfer learning<br>
+          &ensp;• Differential privacy<br>
 
           </td>
           <td>
@@ -103,13 +103,13 @@ params:
           &ensp;• Stability<br>
           &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
           &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-          &ensp;• Data-driven control<br>
+          &ensp;• Learning-based control<br>
           &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
           &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-          &ensp;• Policy Optimization<br>
+          &ensp;• Policy optimization<br>
           &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
           &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-          &ensp;• Optimal Control<br>
+          &ensp;• System identification<br>
           </td>
           </tr>
           </table>

@@ -1,7 +1,7 @@
 ---
 title: "A Unified Framework for Walking and Running of Bipedal Robots"
 date: 2021-12-06
-lastmod: 2012-12-06
+lastmod: 2021-12-06
 tags: ["Bipedal Robot","Feedback Control","Walking Gate", "Running Gate"]
 author: ["Mahrokh Ghoddousi Boroujeni", "Elham Daneshmand", "Ludovic Righetti", "Majid Khadiv"]
 description: "This paper presents a framework for generating various walking and running gaits in bipedal robots by using virtual constraints to relax the fixed center of mass height assumption, demonstrated through simulations of the robot Bolt under environmental uncertainties and disturbances. In International Conference on Advanced Robotics, 2021."
