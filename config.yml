@@ -74,6 +74,24 @@ params:
           *meta-learning* and *federated learning* approaches to enhance performance and robustness.
 
 
+        socialIcons:
+        - name: CV
+          url: cv.pdf
+        - name: Email
+          url: mailto:mahrokh.ghoddousiboroujeni@epfl.ch
+        # - name: Zoom
+        #   url: https://www.zoom.us/my/igelfeld
+        # - name: Location
+        #   url: location/
+        # - name: Office Hours
+        #   url: officehours/
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=hE8QWWcAAAAJ&hl=en
+        - name: GitHub
+          url: https://github.com/MahrokhGB
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/mahrokhghoddousi
+
           <br><br>
           <hr>
           <br>
@@ -161,27 +179,27 @@ params:
             # - name: Blog
             #   url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
-    socialIcons:
-        - name: CV
-          url: cv.pdf
-        - name: Email
-          url: mailto:mahrokh.ghoddousiboroujeni@epfl.ch
-        # - name: Zoom
-        #   url: https://www.zoom.us/my/igelfeld
-        # - name: Location
-        #   url: location/
-        # - name: Office Hours
-        #   url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=hE8QWWcAAAAJ&hl=en
-        - name: GitHub
-          url: https://github.com/MahrokhGB
-        - name: LinkedIn
-          url: https://www.linkedin.com/in/mahrokhghoddousi
-        # - name: YouTube
-        #   url: https://www.youtube.com/@alexandermccallsmithoffici9000
-        # - name: Twitter
-        #   url: https://twitter.com/McCallSmith
+    # socialIcons:
+    #     - name: CV
+    #       url: cv.pdf
+    #     - name: Email
+    #       url: mailto:mahrokh.ghoddousiboroujeni@epfl.ch
+    #     # - name: Zoom
+    #     #   url: https://www.zoom.us/my/igelfeld
+    #     # - name: Location
+    #     #   url: location/
+    #     # - name: Office Hours
+    #     #   url: officehours/
+    #     - name: Google Scholar
+    #       url: https://scholar.google.com/citations?user=hE8QWWcAAAAJ&hl=en
+    #     - name: GitHub
+    #       url: https://github.com/MahrokhGB
+    #     - name: LinkedIn
+    #       url: https://www.linkedin.com/in/mahrokhghoddousi
+    #     # - name: YouTube
+    #     #   url: https://www.youtube.com/@alexandermccallsmithoffici9000
+    #     # - name: Twitter
+    #     #   url: https://twitter.com/McCallSmith
 
     assets:
         disableScrollBarStyle: true

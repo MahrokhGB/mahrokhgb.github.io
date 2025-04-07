@@ -1,7 +1,7 @@
 ---
 title: "Neural Identification of Feedback-Stabilized Nonlinear Systems"
-date: 2024-12-10
-lastmod: 2025-03-26
+date: 2025-03-28
+lastmod: 2025-03-28
 tags: ["Closed-loop system identification", "Stability", "Neural dynamical systems"]
 author: ["Mahrokh G. Boroujeni", "Laura Meroi", "Leonardo Massai", "Clara L. Galimberti", "Giancarlo Ferrari-Trecate"]
 description: "This paper introduces a practical framework for identifying nonlinear dynamical systems from closed-loop data while guaranteeing stability under the original controller. Building on the dual Youla parameterization, the method extends this idea to nonlinear settings using a complete parameterization of systems stabilized by a given controller. The approach ensures closed-loop stability, is computationally efficient, and achieves higher accuracy than direct identification methods. It is also asymptotically consistent in the linear case, with numerical results supporting its effectiveness."
