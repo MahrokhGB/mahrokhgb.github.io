@@ -7,7 +7,7 @@ author: ["Amin Abyaneh", "Mahrokh G. Boroujeni", "Hsiu-chin Lin", "Giancarlo Fer
 description: "This paper presents a framework for learning imitation policies using contractive dynamical systems to ensure reliable behavior, even in out-of-sample situations. It uses recurrent equilibrium networks and coupling layers to guarantee contractivity under any parameters, allowing for unconstrained optimization. The approach includes theoretical performance bounds and shows strong empirical results on simulated robotic manipulation and navigation tasks. In International Conference on Learning Representations, 2025."
 summary: "This paper presents a framework for learning imitation policies using contractive dynamical systems to ensure reliable behavior, even in out-of-sample situations. It uses recurrent equilibrium networks and coupling layers to guarantee contractivity under any parameters, allowing for unconstrained optimization. The approach includes theoretical performance bounds and shows strong empirical results on simulated robotic manipulation and navigation tasks."
 cover:
-    Image: "scds_simreal.pdf"
+    Image: "scds_simreal.png"
     alt: "Sim-to-Real"
     relative: false
 editPost:
@@ -32,7 +32,7 @@ Imitation learning is a data-driven approach to learning policies from expert be
 
 ##### Image: Simulations
 
-![](scds_simreal.pdf)
+![](scds_simreal.png)
 
 ---
 
