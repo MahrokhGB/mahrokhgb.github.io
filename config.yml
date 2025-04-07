@@ -76,7 +76,7 @@ params:
 
         socialIcons:
         - name: CV
-          url: cv.pdf
+          url: Mahrokh_cv.pdf
         - name: Email
           url: mailto:mahrokh.ghoddousiboroujeni@epfl.ch
         # - name: Zoom
