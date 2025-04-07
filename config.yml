@@ -73,24 +73,6 @@ params:
           Finally, I am interested in leveraging multiple related datasets through
           *meta-learning* and *federated learning* approaches to enhance performance and robustness.
 
-
-        socialIcons:
-        - name: CV
-          url: Mahrokh_cv.pdf
-        - name: Email
-          url: mailto:mahrokh.ghoddousiboroujeni@epfl.ch
-        # - name: Zoom
-        #   url: https://www.zoom.us/my/igelfeld
-        # - name: Location
-        #   url: location/
-        # - name: Office Hours
-        #   url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=hE8QWWcAAAAJ&hl=en
-        - name: GitHub
-          url: https://github.com/MahrokhGB
-        - name: LinkedIn
-          url: https://www.linkedin.com/in/mahrokhghoddousi
           
           <br><br>
           <hr>
@@ -181,7 +163,7 @@ params:
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: Mahrokh_cv.pdf
         - name: Email
           url: mailto:mahrokh.ghoddousiboroujeni@epfl.ch
         # - name: Zoom
